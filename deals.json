@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-28T17:54:40.820808+00:00",
-  "count": 4,
+  "updated": "2026-09-28T18:09:15.487999+00:00",
+  "count": 8,
   "deals": [
+    {
+      "id": "dd-202791",
+      "title": "American Tourister Quad 3.0 Style 01 Backpack — 70% off School & college backpack in Legion Blue — a solid everyday carr",
+      "category": "fashion",
+      "price": null,
+      "off_pct": 70,
+      "url": "https://www.amazon.in/dp/B0CYGP4MPW?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-09-28T10:25:12+00:00"
+    },
     {
       "id": "dd-202793",
       "title": "MageGee TS91 Mini 60% RGB Backlit 61-Key Ultra-Compact Gaming Keyboard — compact gaming deal Ultra-compact 61-key keyboa",
@@ -14,15 +25,37 @@
       "posted_at": "2026-09-28T10:45:26+00:00"
     },
     {
+      "id": "dd-202794",
+      "title": "boAt Nirvana Crown TWS Earbuds — big feature stack at a sharp price A feature-packed earbuds deal with ANC, Spatial Audi",
+      "category": "audio",
+      "price": null,
+      "off_pct": 80,
+      "url": "https://www.amazon.in/dp/B0G2RZZF9S?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-09-28T10:51:22+00:00"
+    },
+    {
       "id": "dd-202797",
       "title": "SMARTFASHION E88 Foldable RC Drone with HD Dual Camera — 53% off Foldable RC drone with HD dual camera and 2 batteries i",
       "category": "accessories",
       "price": null,
       "off_pct": 53,
-      "url": "https://www.flipkart.com/smartfashion-e88-foldable-drone-dual-camera-2-batteries/p/itmd5dbfe2a89a84?pid=DNEHZSRU5ZE2ZAPH&lid=LSTDNEHZSRU5ZE2ZAPHSRLNE8&affid=salescueli&affExtParam2=20260928clt8srgnhu5u&affExtParam1=198024",
+      "url": "https://www.flipkart.com/smartfashion-e88-foldable-drone-dual-camera-2-batteries/p/itmd5dbfe2a89a84?pid=DNEHZSRU5ZE2ZAPH&lid=LSTDNEHZSRU5ZE2ZAPHSRLNE8&affid=salescueli&affExtParam2=20260928clu8wmxo6vwa&affExtParam1=198024",
       "image": null,
       "merchant": "flipkart",
       "posted_at": "2026-09-28T11:41:22+00:00"
+    },
+    {
+      "id": "dd-202800",
+      "title": "Infinix BT Speaker X20 — 20 W sound at a sharp price Compact Bluetooth speaker from Infinix, now featured at a big markd",
+      "category": "audio",
+      "price": null,
+      "off_pct": 68,
+      "url": "https://www.flipkart.com/infinix-bt-speaker-x20-20-w-bluetooth/p/itm7260ff6f0e330?pid=ACCHPHPSB3FGMA32&lid=LSTACCHPHPSB3FGMA32QEHKXM&affid=salescueli&affExtParam2=20260928clibuw366xff&affExtParam1=198024",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-09-28T12:14:46+00:00"
     },
     {
       "id": "dd-202801",
@@ -45,6 +78,17 @@
       "image": "https://cdn4.telesco.pe/file/OaUGg65YmXJ_c4aRk7sk0eXGc-FjfFlz54qAbgQ9NsJcvWkGQ0sEAvl_pHHCLrWZ5CzjL30JI0_HJBzj4CgreRUxcUfCW1CbkLD6HDE7bXpGQ_wfnBFloj2XQ_l3WCs-8BDb2LlRKufcUXFADCqpcxi7eJHb8ucTFCBGSbrb4wXmXuKJ-XFCsmEhJd7daHVlf_Er5ssvuXYI6TnA9T6lO_i9hp33OSD74FyhJ6jLexFFh5HAKFoI7jALC_ONttZnJ2c6nAdGop-iOcUCgoi3TF9Mer6Y3kpAj9-KYQxnqr_6ogcezRRHfoaRcKvaedG9xa3sl-WEsp0fbV4NRquv_Q.jpg",
       "merchant": "amazon",
       "posted_at": "2026-09-28T12:30:24+00:00"
+    },
+    {
+      "id": "dd-202804",
+      "title": "Tokyo Talkies tee deal — everyday style, big save Soft cotton-blend round neck T-shirt for women from Tokyo Talkies ₹210",
+      "category": "fashion",
+      "price": null,
+      "off_pct": 85,
+      "url": "https://www.flipkart.com/tokyo-talkies-printed-typography-women-round-neck-brown-t-shirt/p/itmd943fb817e34d?pid=TSHGSA6BPGUV2ERZ&lid=LSTTSHGSA6BPGUV2ERZCPYS2W&marketplace=FLIPKART&store=clo%2Fash%2Fank%2Floi&srno=b_1_3&fm=organic&iid=8570ce5c-a8e5-48cf-bad2-12930d6df7ec.TSHGSA6BPGUV2ERZ.SEARCH&ppt=browse&ppn=browse&ssid=8kvh896u680000001790591174466&ov_redirect=true&affid=salescueli&affExtParam2=20260928cl8t9d8izb6j&affExtParam1=198024",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-09-28T13:05:50+00:00"
     }
   ]
 }

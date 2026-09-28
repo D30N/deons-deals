@@ -97,6 +97,7 @@ footer b{color:var(--text)}
     <button class="chip" data-f="audio">Audio</button>
     <button class="chip" data-f="wearables">Wearables</button>
     <button class="chip" data-f="tv">TV &amp; Appliances</button>
+    <button class="chip" data-f="fashion">Fashion</button>
     <button class="chip" data-f="accessories">Accessories</button>
   </div>
   <div class="grid" id="grid"><div class="empty">Loading deals…</div></div>
@@ -115,7 +116,7 @@ footer b{color:var(--text)}
 
 <script>
 (function(){
-  var grid=document.getElementById("grid"),catNames={mobiles:"MOBILES",laptops:"LAPTOPS",audio:"AUDIO",wearables:"WEARABLES",tv:"TV & APPLIANCES",accessories:"ACCESSORIES"};
+  var grid=document.getElementById("grid"),catNames={mobiles:"MOBILES",laptops:"LAPTOPS",audio:"AUDIO",wearables:"WEARABLES",tv:"TV & APPLIANCES",fashion:"FASHION",accessories:"ACCESSORIES"};
   var grads=["linear-gradient(135deg,#0f2027,#2c5364)","linear-gradient(135deg,#1a2a6c,#b21f1f)","linear-gradient(135deg,#eb3349,#f45c43)","linear-gradient(135deg,#ff8008,#ffc837)","linear-gradient(135deg,#232526,#414345)","linear-gradient(135deg,#000428,#004e92)","linear-gradient(135deg,#11998e,#38ef7d)","linear-gradient(135deg,#8e2de2,#4a00e0)","linear-gradient(135deg,#141e30,#8e9eab)","linear-gradient(135deg,#355c7d,#6c5b7b)"];
   function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
   function card(d,i){
