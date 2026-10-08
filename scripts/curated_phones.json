@@ -6,7 +6,9 @@
   "match": "iphone 17",
   "merchant": "flipkart",
   "title": "Apple iPhone 17 (Sage, 256 GB)",
-  "url": "https://fktr.in/klgWZ7k"
+  "url": "https://fktr.in/klgWZ7k",
+  "price": 84999,
+  "off_pct": 15
  },
  {
   "category": "mobiles",
@@ -34,7 +36,9 @@
   "match": "s25 fe",
   "merchant": "flipkart",
   "title": "Samsung Galaxy S25 FE 5G (Navy, 128 GB)",
-  "url": "https://fktr.in/fecS7lX"
+  "url": "https://fktr.in/fecS7lX",
+  "price": 46999,
+  "off_pct": 48
  },
  {
   "category": "mobiles",
@@ -43,7 +47,9 @@
   "match": "pixel 10a",
   "merchant": "flipkart",
   "title": "Google Pixel 10a (Fog, 256 GB)",
-  "url": "https://fktr.in/L7EpYNf"
+  "url": "https://fktr.in/L7EpYNf",
+  "price": 47999,
+  "off_pct": 14
  },
  {
   "category": "mobiles",
@@ -52,7 +58,9 @@
   "match": "edge 70",
   "merchant": "flipkart",
   "title": "Motorola Edge 70 Fusion (128 GB)",
-  "url": "https://fktr.in/tBS75i2"
+  "url": "https://fktr.in/tBS75i2",
+  "price": 30999,
+  "off_pct": 38
  },
  {
   "category": "mobiles",
@@ -61,7 +69,9 @@
   "match": "realme p4",
   "merchant": "flipkart",
   "title": "realme P4 5G (Steel Grey, 128 GB)",
-  "url": "https://fktr.in/vyRsJva"
+  "url": "https://fktr.in/vyRsJva",
+  "price": 30999,
+  "off_pct": 33
  },
  {
   "category": "mobiles",
@@ -70,7 +80,9 @@
   "match": "poco m8x",
   "merchant": "flipkart",
   "title": "POCO M8x 5G (Leather Green, 128 GB)",
-  "url": "https://fktr.in/z9p7BMT"
+  "url": "https://fktr.in/z9p7BMT",
+  "price": 20999,
+  "off_pct": 58
  },
  {
   "category": "mobiles",
@@ -79,6 +91,7 @@
   "match": "x300 pro",
   "merchant": "flipkart",
   "title": "vivo X300 Pro (Elite Black, 512 GB)",
-  "url": "https://fktr.in/Y0t9mXO"
+  "url": "https://fktr.in/Y0t9mXO",
+  "price": 119999
  }
 ]
