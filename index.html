@@ -138,7 +138,7 @@ footer b{color:var(--text)}
     show.forEach(function(d,i){grid.insertAdjacentHTML("beforeend",card(d,i));});
   }
   var all=[];
-  fetch("deals.json").then(function(r){return r.json();}).then(function(j){
+  fetch("deals.json?v="+Date.now()).then(function(r){return r.json();}).then(function(j){
     all=j.deals||[];
     render(all,"all");
     var pill=document.getElementById("updatedPill");
