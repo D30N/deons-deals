@@ -257,6 +257,9 @@ def main():
             pinned.append(c)
     deals = pinned + deals
 
+    # Site focus: phones & audio only (his call 2026-10-08).
+    deals = [d for d in deals if d.get("category") in ("mobiles", "audio")]
+
     payload = {
         "updated": now.isoformat(),
         "count": len(deals),
