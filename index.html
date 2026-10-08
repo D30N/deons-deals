@@ -44,6 +44,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-s
 .imgbox .ph{font-size:44px;font-weight:800;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,.3)}
 .cat{position:absolute;left:10px;top:10px;font-size:9.5px;font-weight:700;background:rgba(0,0,0,.55);color:#fff;padding:4px 9px;border-radius:999px;letter-spacing:.05em}
 .off{position:absolute;right:10px;top:10px;font-size:12px;font-weight:800;background:var(--green);color:#fff;padding:4px 10px;border-radius:999px}
+.off.rec{background:var(--accent)}
 .merchant{position:absolute;left:10px;bottom:10px;font-size:9.5px;font-weight:700;background:rgba(0,0,0,.55);color:#fff;padding:4px 9px;border-radius:999px}
 .body{padding:12px;display:flex;flex-direction:column;gap:5px;flex:1}
 .title{font-size:13.5px;font-weight:700;line-height:1.35}
@@ -121,11 +122,12 @@ footer b{color:var(--text)}
   function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
   function card(d,i){
     var g=grads[i%grads.length],initial=esc((d.title||"?").trim().charAt(0).toUpperCase());
+    var badge=d.off_pct?'<span class="off">-'+esc(d.off_pct)+'%</span>':'<span class="off rec">★ Recommended</span>';
     var img=d.image?'<img src="'+esc(d.image)+'" alt="" loading="lazy" onerror="this.outerHTML=\'<span class=ph>\'+initial+\'</span>\'">':'<span class="ph">'+initial+'</span>';
     var price=d.price?'<b>\u20B9'+Number(d.price).toLocaleString("en-IN")+'</b>':'<b>See price</b>';
     return '<div class="card" data-cat="'+esc(d.category)+'">'+
       '<div class="imgbox" style="background:'+g+'"><span class="cat">'+esc(catNames[d.category]||d.category||"DEAL")+'</span>'+
-      '<span class="off">-'+esc(d.off_pct)+'%</span><span class="merchant">'+esc((d.merchant||"").toUpperCase())+'</span>'+img+'</div>'+
+      badge+'<span class="merchant">'+esc((d.merchant||"").toUpperCase())+'</span>'+img+'</div>'+
       '<div class="body"><div class="title">'+esc(d.title)+'</div>'+
       '<div class="price">'+price+'</div>'+
       '<div class="verified">\u2713 Price-drop verified</div>'+
