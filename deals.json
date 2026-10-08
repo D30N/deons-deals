@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T06:22:38.097079+00:00",
-  "count": 19,
+  "updated": "2026-10-08T07:59:29.584372+00:00",
+  "count": 75,
   "deals": [
     {
       "category": "mobiles",
@@ -11,7 +11,7 @@
       "price": 80000,
       "title": "Apple iPhone 17 (Sage, 256 GB)",
       "url": "https://fktr.in/klgWZ7k",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -22,7 +22,7 @@
       "price": 57500,
       "title": "Apple iPhone 16 (Black, 128 GB)",
       "url": "https://fktr.in/UasgM6k",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -33,7 +33,7 @@
       "price": 47500,
       "title": "Apple iPhone 15 (Green, 128 GB)",
       "url": "https://fktr.in/b0ykuNQ",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -44,7 +44,7 @@
       "price": 52249,
       "title": "Samsung Galaxy S25 FE 5G (Navy, 128 GB)",
       "url": "https://fktr.in/fecS7lX",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -55,7 +55,7 @@
       "price": 43999,
       "title": "Google Pixel 10a (Fog, 256 GB)",
       "url": "https://fktr.in/L7EpYNf",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -66,7 +66,7 @@
       "price": 29999,
       "title": "Motorola Edge 70 Fusion (128 GB)",
       "url": "https://fktr.in/tBS75i2",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -77,7 +77,7 @@
       "price": 29449,
       "title": "realme P4 5G (Steel Grey, 128 GB)",
       "url": "https://fktr.in/vyRsJva",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -88,7 +88,7 @@
       "price": 21849,
       "title": "POCO M8x 5G (Leather Green, 128 GB)",
       "url": "https://fktr.in/z9p7BMT",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
       "category": "mobiles",
@@ -99,117 +99,733 @@
       "price": 115999,
       "title": "vivo X300 Pro (Elite Black, 512 GB)",
       "url": "https://fktr.in/Y0t9mXO",
-      "posted_at": "2026-10-08T06:22:38.097079+00:00"
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
-      "id": "dd-203418",
-      "title": "Samsung 2026 Model 1.42 Ton 5 Star Split Inverter with Wi-fi AC (AR50H19D1RH/AR50H19D1RHNNA/AR50H19D1RHXNA, White)",
-      "category": "accessories",
-      "price": 40490,
-      "off_pct": 55,
-      "url": "https://www.flipkart.com/samsung-2026-model-1-42-ton-5-star-split-inverter-wi-fi-ac/p/itm268788b7d64e2?pid=ACNHQV2ZYTS2HPYG&lid=LSTACNHQV2ZYTS2HPYGFU6B2R&marketplace=FLIPKART&store=j9e%2Fabm%2Fc54&srno=b_1_9&fm=organic&iid=en_Vm-rrxRWUe3bz_PCcIbxUJQN_Qx3OS_Ks4cRKRATd667nDLXPuPk1Ly3TPObHKlNVGwKTAsBi7UKotrZ38SXdtqqfWdUzZEM8RZZzEVwgUJRM-2t-xfm65pfOmQ4QtG89QWMJPI4egdmz5nn89L_DQ%3D%3D&ppt=browse&ppn=browse&ssid=rdajwqnf680000001791437258048&ov_redirect=true&affid=salescueli&affExtParam2=20261008clt93psjbi5s&affExtParam1=198024",
-      "image": "https://cdn4.telesco.pe/file/qxO08pPFbWQqdidTZFTSIwwVlouz3XU0o-_ptPeXgaERFAk-_aB5SGFB5zK3LTnY5hlngMI40TQ96d6JKH_5G6LmeyWBv08439Ez-t-Is8-lDPuwzRKay4Fmfx1ffWyT9FigEk5rjJezu6gEgpvSxjkgQ_-m2roJ-Uv4njyXjzFqUriw1ewqm8LObndLQQ6dLfl_srGbbs588Zd4UP63buxwWB-VG0bKGfzgCXHElc8JyDo71R4JIIuMEjmU2Z3Q4rZqmyBAD1W0pOTe2b3YUfDxNOUOA8LVuXVxIA1VRuHjMJ47gkG8xxcE0i08jRaeeCZBQwZdH11pPyWD9lboMQ.jpg",
-      "merchant": "flipkart",
-      "posted_at": "2026-10-08T05:50:34+00:00"
+      "id": "sheet-samsung-galaxy-m06",
+      "title": "Samsung Galaxy M06",
+      "category": "mobiles",
+      "price": 15999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+M06&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
-      "id": "dd-203419",
-      "title": "SONY WF-1000XM5 Noise Cancellation Earbuds with High-Res Audio TWS Bluetooth Headset",
+      "id": "sheet-motorola-g37",
+      "title": "Motorola g37",
+      "category": "mobiles",
+      "price": 17249,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Motorola+g37&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-motorola-g37-power",
+      "title": "Motorola g37 Power",
+      "category": "mobiles",
+      "price": 19999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Motorola+g37+Power&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-m36",
+      "title": "Samsung Galaxy M36",
+      "category": "mobiles",
+      "price": 21999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+M36&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-poco-m8",
+      "title": "Poco M8",
+      "category": "mobiles",
+      "price": 24999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Poco+M8&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-m47",
+      "title": "Samsung Galaxy M47",
+      "category": "mobiles",
+      "price": 27999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+M47&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-realme-p4-pro",
+      "title": "realme P4 Pro",
+      "category": "mobiles",
+      "price": 30999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=realme+P4+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-a56",
+      "title": "Samsung Galaxy A56",
+      "category": "mobiles",
+      "price": 31999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+A56&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oppo-k13-turbo-pro",
+      "title": "oppo K13 Turbo Pro",
+      "category": "mobiles",
+      "price": 33199,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=oppo+K13+Turbo+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-motorola-edge-60-pro",
+      "title": "Motorola Edge 60 Pro",
+      "category": "mobiles",
+      "price": 33999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Motorola+Edge+60+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-realme-gt-7t",
+      "title": "realme GT 7T",
+      "category": "mobiles",
+      "price": 34499,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=realme+GT+7T&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-motorola-edge-70",
+      "title": "Motorola Edge 70",
+      "category": "mobiles",
+      "price": 34999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Motorola+Edge+70&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-poco-x8-pro-redmi-turbo-5",
+      "title": "Poco X8 Pro / Redmi Turbo 5",
+      "category": "mobiles",
+      "price": 39999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Poco+X8+Pro+%2F+Redmi+Turbo+5&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-motorola-edge-70-pro",
+      "title": "Motorola Edge 70 Pro",
+      "category": "mobiles",
+      "price": 39999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Motorola+Edge+70+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-nothing-phone-4a",
+      "title": "Nothing Phone (4a)",
+      "category": "mobiles",
+      "price": 42999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Nothing+Phone+%284a%29&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oneplus-nord-6",
+      "title": "OnePlus Nord 6",
+      "category": "mobiles",
+      "price": 46999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=OnePlus+Nord+6&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-iqoo-15r",
+      "title": "iQOO 15R",
+      "category": "mobiles",
+      "price": 49999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=iQOO+15R&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-nothing-phone-4a-pro",
+      "title": "Nothing Phone (4a) Pro",
+      "category": "mobiles",
+      "price": 49999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Nothing+Phone+%284a%29+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oneplus-13s",
+      "title": "OnePlus 13s",
+      "category": "mobiles",
+      "price": 54999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=OnePlus+13s&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-motorola-signature",
+      "title": "Motorola Signature",
+      "category": "mobiles",
+      "price": 57999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Motorola+Signature&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-vivo-x200t",
+      "title": "vivo X200T",
+      "category": "mobiles",
+      "price": 59999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=vivo+X200T&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oneplus-13",
+      "title": "OnePlus 13",
+      "category": "mobiles",
+      "price": 63157,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=OnePlus+13&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-s25",
+      "title": "Samsung Galaxy S25",
+      "category": "mobiles",
+      "price": 68999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S25&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oppo-find-x8",
+      "title": "oppo Find X8",
+      "category": "mobiles",
+      "price": 69999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=oppo+Find+X8&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-google-pixel-10",
+      "title": "Google Pixel 10",
+      "category": "mobiles",
+      "price": 74999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Google+Pixel+10&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-iqoo-15",
+      "title": "iQOO 15",
+      "category": "mobiles",
+      "price": 76999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=iQOO+15&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-vivo-x300-fe",
+      "title": "vivo X300 FE",
+      "category": "mobiles",
+      "price": 79999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=vivo+X300+FE&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-nothing-phone-3",
+      "title": "Nothing Phone (3)",
+      "category": "mobiles",
+      "price": 79999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Nothing+Phone+%283%29&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-xiaomi-17",
+      "title": "Xiaomi 17",
+      "category": "mobiles",
+      "price": 89999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Xiaomi+17&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oneplus-15",
+      "title": "OnePlus 15",
+      "category": "mobiles",
+      "price": 93999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=OnePlus+15&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-google-pixel-10-pro",
+      "title": "Google Pixel 10 Pro",
+      "category": "mobiles",
+      "price": 109999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Google+Pixel+10+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oppo-find-x9-pro",
+      "title": "oppo Find X9 Pro",
+      "category": "mobiles",
+      "price": 109999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=oppo+Find+X9+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-z-flip7",
+      "title": "Samsung Galaxy Z Flip7",
+      "category": "mobiles",
+      "price": 109999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Z+Flip7&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-s25-ultra",
+      "title": "Samsung Galaxy S25 Ultra",
+      "category": "mobiles",
+      "price": 118999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S25+Ultra&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-iphone-17-pro",
+      "title": "iPhone 17 Pro",
+      "category": "mobiles",
+      "price": 128900,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=iPhone+17+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-s26-ultra",
+      "title": "Samsung Galaxy S26 Ultra",
+      "category": "mobiles",
+      "price": 139999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S26+Ultra&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-iphone-17-pro-max",
+      "title": "iPhone 17 Pro Max",
+      "category": "mobiles",
+      "price": 143900,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=iPhone+17+Pro+Max&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-z-fold7",
+      "title": "Samsung Galaxy Z Fold7",
+      "category": "mobiles",
+      "price": 174999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Z+Fold7&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-redmi-buds-4-active",
+      "title": "Redmi Buds 4 Active",
       "category": "audio",
-      "price": 9835,
-      "off_pct": 67,
-      "url": "https://www.flipkart.com/sony-wf-1000xm5-noise-cancellation-earbuds-high-res-audio-tws-bluetooth/p/itm7333b29e826e7?affid=salescueli&affExtParam2=20261008cltwryn1sz3j&affExtParam1=198024",
-      "image": "https://cdn4.telesco.pe/file/L56h-7CxcXOgrTn2IwfNzyUZIVBoaItBgaoiorqwGPzYLntUxibt1kq_jo9Lp-EXvgKJXcHLBDFjhwYl7UWQ8RutOnz0RySo8xei2Jpft3LTeEzZrS3X9DkxDMNEOKwQRkNA-Kd9MlqHUj6xXtqr-_9aRjCiIH70cxZmod5d8EVvfH3ZJzbmAE8JVFLHYSKq_DZ59licB4c82NQgy6sKX-WJsIEOnqsC3Vw5gWuP1OmRAMsjlyNZ8N1HJiSh5vrYYZiQnbBJUIQOHZkBKhz_cinbniPHj022Cx2I1qDZvkePyI4BCBOrGA1Q6FdvLRjjj2K8g20CYm2o-vQUwZPztg.jpg",
-      "merchant": "flipkart",
-      "posted_at": "2026-10-08T05:50:41+00:00"
-    },
-    {
-      "id": "dd-203421",
-      "title": "HP Smart All In One 589 Multi-function WiFi Color Ink Tank Printer",
-      "category": "accessories",
-      "price": 10649,
-      "off_pct": 38,
-      "url": "https://www.flipkart.com/hp-smart-all-one-589-multi-function-wifi-color-ink-tank-printer-color-page-cost-0-67-rs-black-0-47-borderless-printing-print-copy-scan-up-12-ipm-mono-5-color-yield-4-000-6-000-pages-in-box-included/p/itm42d7699c860a9?affid=salescueli&affExtParam2=20261008clejzok6seoz&affExtParam1=198024",
+      "price": 999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Redmi+Buds+4+Active&tag=deonsdeals-21",
       "image": null,
-      "merchant": "flipkart",
-      "posted_at": "2026-10-08T05:53:55+00:00"
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
     },
     {
-      "id": "dd-203422",
-      "title": "New Bose QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio",
-      "category": "mobiles",
-      "price": 29240,
+      "id": "sheet-realme-techlife-buds-t100",
+      "title": "realme Techlife Buds T100",
+      "category": "audio",
+      "price": 1499,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=realme+Techlife+Buds+T100&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oppo-enco-buds-2",
+      "title": "oppo Enco Buds 2",
+      "category": "audio",
+      "price": 1799,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=oppo+Enco+Buds+2&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oneplus-nord-buds-2",
+      "title": "OnePlus Nord Buds 2",
+      "category": "audio",
+      "price": 2499,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=OnePlus+Nord+Buds+2&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-cmf-by-nothing-buds-pro",
+      "title": "CMF by Nothing Buds Pro",
+      "category": "audio",
+      "price": 2499,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=CMF+by+Nothing+Buds+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-realme-buds-air-5",
+      "title": "realme Buds Air 5",
+      "category": "audio",
+      "price": 2999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=realme+Buds+Air+5&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oppo-enco-air-3",
+      "title": "oppo Enco Air 3",
+      "category": "audio",
+      "price": 2999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=oppo+Enco+Air+3&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-realme-buds-air-5-pro",
+      "title": "realme Buds Air 5 Pro",
+      "category": "audio",
+      "price": 4199,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=realme+Buds+Air+5+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-cmf-by-nothing-buds-pro-2",
+      "title": "CMF by Nothing Buds Pro 2",
+      "category": "audio",
+      "price": 4299,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=CMF+by+Nothing+Buds+Pro+2&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-realme-buds-air-5-pro",
+      "title": "realme Buds Air 5 Pro",
+      "category": "audio",
+      "price": 4998,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=realme+Buds+Air+5+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oppo-enco-air-3-pro",
+      "title": "oppo Enco Air 3 Pro",
+      "category": "audio",
+      "price": 4999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=oppo+Enco+Air+3+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oneplus-buds-3",
+      "title": "OnePlus Buds 3",
+      "category": "audio",
+      "price": 5499,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=OnePlus+Buds+3&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-galaxy-buds-2",
+      "title": "Samsung Galaxy Galaxy Buds 2",
+      "category": "audio",
+      "price": 6199,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Galaxy+Buds+2&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-nothing-ear-2",
+      "title": "Nothing Ear 2",
+      "category": "audio",
+      "price": 9999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Nothing+Ear+2&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-moto-buds",
+      "title": "moto buds +",
+      "category": "audio",
+      "price": 9999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=moto+buds+%2B&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-apple-airpods-2nd-gen",
+      "title": "Apple AirPods (2nd gen)",
+      "category": "audio",
+      "price": 9999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Apple+AirPods+%282nd+gen%29&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oppo-enco-x2",
+      "title": "oppo Enco X2",
+      "category": "audio",
+      "price": 10999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=oppo+Enco+X2&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-oneplus-buds-pro-2",
+      "title": "OnePlus Buds Pro 2",
+      "category": "audio",
+      "price": 10999,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=OnePlus+Buds+Pro+2&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-samsung-galaxy-galaxy-buds2-pro",
+      "title": "Samsung Galaxy Galaxy Buds2 Pro",
+      "category": "audio",
+      "price": 16490,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Galaxy+Buds2+Pro&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-apple-airpods-3rd-gen",
+      "title": "Apple AirPods (3rd gen)",
+      "category": "audio",
+      "price": 18620,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Apple+AirPods+%283rd+gen%29&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "sheet-apple-airpods-pro-2nd-gen",
+      "title": "Apple AirPods Pro (2nd gen)",
+      "category": "audio",
+      "price": 18990,
+      "off_pct": 0,
+      "url": "https://www.amazon.in/s?k=Apple+AirPods+Pro+%282nd+gen%29&tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:59:29.584372+00:00"
+    },
+    {
+      "id": "dd-203441",
+      "title": "Lowest : Xiaomi Pad 8 deal — 41% off on a feature-packed tablet An 11.2-inch Wi‑Fi tablet with LCD 3.2K display, 8GB RAM",
+      "category": "accessories",
+      "price": null,
       "off_pct": 41,
-      "url": "https://www.amazon.in/dp/B0FDKR293G?tag=deonsdeals-21",
+      "url": "https://www.amazon.in/dp/B0GPVQPMKY?tag=deonsdeals-21",
       "image": null,
       "merchant": "amazon",
-      "posted_at": "2026-10-08T05:54:00+00:00"
+      "posted_at": "2026-10-08T06:53:32+00:00"
     },
     {
-      "id": "dd-203423",
-      "title": "Preethi Zion 750W Mixer Grinder, 4 Jars, Food Processor & Flexi Lid, BlackWith Food Processor jar and Flexi Lid for ever",
-      "category": "accessories",
-      "price": 3855,
-      "off_pct": 71,
-      "url": "https://www.amazon.in/dp/B07B4ZNMRC?tag=deonsdeals-21",
-      "image": "https://cdn4.telesco.pe/file/FSlCJmyhkeM9wxYbFvuGlPiWLyVF8t4tfLUffDQfcaT8-2HmVaoqzWFPh1zIBoHXoRAwfs27JWfvsWrp5pFx8S8ILKjxMo5HN52aXQ-rf9vQbziOHiTve7UQJCOhF9YeqfPZXLYyFtbdJFrbsMtwv2EIP3scsCWS0d53F_QKEWg5xppzonh7thIKwT_lxyE87wCHZrZhQy-LlPr9pAeq4VmdEWJViepn1sybatTQrecj3Hk5ghebwy3he0AhjcAHBr4hqfMvZx1kIFIN81blbB912XLx8usKUBy-fbeYZbgri2tR3b0H9caqlUyAUcUg9Nijsu_ho1F4V2r3dRpa6g.jpg",
-      "merchant": "amazon",
-      "posted_at": "2026-10-08T06:00:29+00:00"
-    },
-    {
-      "id": "dd-203426",
-      "title": "BOAT 20000 mAh 22.5 W Compact Pocket Size Power Bank",
-      "category": "accessories",
-      "price": 850,
-      "off_pct": 81,
-      "url": "https://www.flipkart.com/hyperlocal-preview-page?marketplace=HYPERLOCAL&originalUrl=%2Fboat-20000-mah-22-5-w-compact-pocket-size-power-bank%2Fp%2Fitm812d8194c424f%3Fpid%3DPWBGR4KGUMSZQMFZ&lid=LSTPWBGR4KGUMSZQMFZNF66L9&hl_lid=&marketplace=HYPERLOCAL&fm=eyJ3dHAiOiJhdGxhc19wcm9kdWN0X3N1bW1hcnlfZ3JpZF9lbGVjdHJvbmljcyIsInBycHQiOiJzcCIsIm1pZCI6ImFkcyJ9&ctx=eyJkZWxpdmVyZWRCeSI6IjE3OTE0Mzg1NDM2OTQiLCJkaXNwbGF5UHJpY2UiOiI5OTkifQ%3D%3D&affid=salescueli&affExtParam2=20261008clq333awsqgq&affExtParam1=198024",
-      "image": "https://cdn4.telesco.pe/file/D7HFnDdMRHNNLHaIHE2HsbX_-clQ2vd34xTtpIoq2USB0-PaKRDKCVaczoXzlu5K8cv71VV0yR-k-qbyAb_1JSI_0M4wU8TCoyk1GCjHqKOAs1i1SE-bSMIqaHoP3xCP8mPF9BV0ZwvkDZ_kSkYdG67CKhZDUSY6ZYJKJRCaUvjockt6s7IhyKcnuCkpyXgKu_V66wXr5NrVRLkY5LGcj_KkGZNz2cGXfsAu3d72nRKP-i6atjJEylZT-ox-BVZrC6u6t3drEbZPvGO65OKTXIHbECjd6BeRlnRNgmZuoBd44pC3H3AhRTjZ_EyLIpeCA5vWWrqXb7e-owohPrMecw.jpg",
-      "merchant": "flipkart",
-      "posted_at": "2026-10-08T06:01:05+00:00"
-    },
-    {
-      "id": "dd-203427",
-      "title": "QuietComfort Wireless Headphones — big savings on Bose Over-ear wireless headphones from Bose, featured as a strong deal",
-      "category": "mobiles",
+      "id": "dd-203443",
+      "title": "Massive 60% off on Haier 596 L Side-by-Side Refrigerator Smart Sense AI-enabled 2-door fridge with in-built water dispen",
+      "category": "tv",
       "price": null,
-      "off_pct": 51,
-      "url": "https://www.flipkart.com/bose-new-quietcomfort-n-c-wireless-over-ear-headphones-up-24hr-battery-life-bluetooth/p/itm0dc7901996dce?affid=salescueli&affExtParam2=20261008cl2bg14hxrjy&affExtParam1=198024",
+      "off_pct": 60,
+      "url": "https://www.amazon.in/dp/B0CX4PY3WR?tag=deonsdeals-21",
       "image": null,
-      "merchant": "flipkart",
-      "posted_at": "2026-10-08T06:02:35+00:00"
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:00:23+00:00"
     },
     {
-      "id": "dd-203428",
-      "title": "HP Omnibook 3 — Snapdragon X laptop at a sharp price A premium 2K WUXGA laptop with Snapdragon X, 8GB LPDDR5x, and 512GB",
+      "id": "dd-203448",
+      "title": "GoPro HERO12 Waterproof Action Camera with Front & Rear LCD Screens, 5.3K60 Ultra HD Video",
+      "category": "accessories",
+      "price": 21490,
+      "off_pct": 52,
+      "url": "https://www.amazon.in/dp/B0CGRHHGBH?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/gXDD6C-yFArwfByd00gWIe9iBI6LpeB0B8Z2k_5qF3ZzkH2di9NYEx6DwuL8BRX8C4RPVVjvbceO64RyRpV3LPl2ZnQpDE21ENGls_7-fFZIPOmNjhQHm4Up2FsR3CvStg_xdrcL98UDtCRfHUw1iDakR7ETXHarRqCXxDUwMZhfdM4Y2JzrZgV7EDrisXllvZ1sRGNlDRnjcyNYgzgaixdEj00gRuU0qmCwZvFi3IudIbIlUB8hIYpjnO81A93HR3dIZhmd7Oj1TuIXWKJOcv70Lcl1gcfBRmqGI-TXZcA_WV7QDDeg9RvRewpVAgP30NKRb71wRaLU4SHq2PdCLQ.jpg",
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:20:21+00:00"
+    },
+    {
+      "id": "dd-203449",
+      "title": "IFB 197L 5 Star Advanced Inverter Direct-Cool Single Door Refrigerator",
+      "category": "tv",
+      "price": 11841,
+      "off_pct": 52,
+      "url": "https://www.amazon.in/dp/B0GW2YHFCX?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/dgvAZ9qg8tempjKk57hMc2-fLWxiYxBO2QmuhsHn4VwV_3iwNCbQ-RdYJqeusJGdfDQqeZLEt4OYPN7e-tp2FtHSq7CgQevlMj_QSvIWnIdURFctdy8_isSgfkhiunyZZiY_7m1tQAHaavW2NClVKAz3Zfk1hxrnNfYoFKM4xrnXAi8RVyvnlZRsq_NrbwsRTz0Ioq10rzLsy03xsjuXz_B8d_O5EUiHeXVj9E4fZ13TplsmZ2wsB120Tj1Qy13nQfGLCa4GT3zcV3e7bgAEiBBqfVb_V7INssoffbkL0EReq4mEHg7PGp6Tac-6apfpuHJqWsS6B2-XhFMgvqQiVQ.jpg",
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:30:30+00:00"
+    },
+    {
+      "id": "dd-203450",
+      "title": "Samsung 490 W 5.1 ch Soundbar with Center Speaker | Dolby Audio | DTS Virtual:X | Q-Symphony | Wireless Rear Speaker | H",
+      "category": "audio",
+      "price": 17402,
+      "off_pct": 56,
+      "url": "https://www.amazon.in/dp/B0FPGCLF7Z?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/WaFexZqmvefdiZk_yBEeIw-U_xVXPUSCqtMjE10ZfFyWkJiA2z_Rw-HrOVf1qxH9SzIIROX6oGIX3a_cWRIEaQ0KXMTcZ3CYshiwgzfUt3QW2RatCJkaObrinDoO9UIml8gyzUKMqpGgSabBMux1jAzxPNgH5skCJ0t5FuEMTt54KbRaxcQ3mXIZYCvPpcYGSPv_I-MURVwnKm98mFfHygUKxvQk2k0lEhnTTIzqk8qJdHmB7nqdGKysOL7oTuFLZujv13tp2RxLcX7PiNBNv9ljEV3pcrgmdpgYb_0VHoEsmZm4D6ou4QiE4AAKKE_mYwP6XaYPKgqBAGoLJU28Ng.jpg",
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T07:40:20+00:00"
+    },
+    {
+      "id": "dd-203453",
+      "title": "Acer Aspire 14 AMD Ryzen 3 3200U - (8 GB/512 GB SSD/Windows 11 Home)(14 inch, Light Silver, 1.45 kg)",
+      "category": "accessories",
+      "price": 31711,
+      "off_pct": 63,
+      "url": "https://www.flipkart.com/acer-aspire-14-amd-ryzen-3-3200u-8-gb-512-gb-ssd-windows-11-home-as14-39-notebook/p/itm4f3c5d31d72cf",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-10-08T07:50:03+00:00"
+    },
+    {
+      "id": "dd-203455",
+      "title": "Lenovo LOQ 15 Gaming Laptop — 63% off gaming power Gaming-ready laptop with 13th Gen Intel Core i5-13450HX and RTX 3050 ",
       "category": "laptops",
       "price": null,
-      "off_pct": 68,
-      "url": "https://www.amazon.in/dp/B0HK3BFFKM?tag=deonsdeals-21",
-      "image": null,
+      "off_pct": 63,
+      "url": "https://www.amazon.in/dp/B0H25ZX29Y?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/lvyQ68_fHwBt2JOW5LyvfUgF4omfBiyxI571gzhbM7C94QmaI6T-VDUfsDSuG9F0yJxxiIb38GxG7D-JH88CR3YUh1ccXeofJnUSd4ApRBnA9Whdksiz9rd0tGnAp6A2742fprj1nbkIKJa7hBK5WVtnf-8wtM06pGEPlU_hu9mMfaqfAxrim0peeXdkIbDCk6XPKoGgKQy8x5-CNP-TwhXgZruu_6z3jGtqN38pC9u1i-SvfAT7XfpwMj8mwY1ntZ7D1OWAWdFJVGWNg-EH_w7cj25KcY_4g3Qbht4GqqgPDQeubjEMSmD7a3JYvGh5EO1qpdF5jdOzGlMEAN9-0w.jpg",
       "merchant": "amazon",
-      "posted_at": "2026-10-08T06:05:35+00:00"
-    },
-    {
-      "id": "dd-203430",
-      "title": "Dell 15 AI Powered Laptop Intel Core Ultra 5 225U Processor, 16GB:512GB",
-      "category": "laptops",
-      "price": 60240,
-      "off_pct": 45,
-      "url": "https://www.amazon.in/dp/B0H9SV5VKG?tag=deonsdeals-21",
-      "image": "https://cdn4.telesco.pe/file/hPaYGBuDnKM8NHuFTrxyKj9-o0UhfJNqHAYJ-advpOB5I-CRB6jlqowN6SoQGTV8YAeXYImWaRUCIFushTrcGLZHuKxeBPGy7xtIVHrrPLx3CURBKYu6Eoh4hWDLPUTXF63078EiQ7z8CVCKdPB2yVyX9TCHCFSlYCoTeXwo1YnU9P4LIFN5XaYm7ROWFtEhtw2kM41vyiB62Hmx7qQTF0aaXPIS4LxrIPyTy9lp8SOVswbbQgcmMwZauGBVRWgHRspHqmGPTZnCdV2jjjnQKrw9FXsTlgyw8P47_Zorzkn0Ug_VIMVM07T5xlm1h9RK1IFDydseeeRnTYgjR37rTg.jpg",
-      "merchant": "amazon",
-      "posted_at": "2026-10-08T06:10:22+00:00"
-    },
-    {
-      "id": "dd-203432",
-      "title": "Acer Aspire 7(i5 14th Gen) Intel Core 5 210H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050) ",
-      "category": "accessories",
-      "price": 74990,
-      "off_pct": 42,
-      "url": "https://www.flipkart.com/acer-aspire-7-i5-14th-gen-intel-core-5-210h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-4050-a715-79g-gaming-laptop/p/itm96c08ed7d9792?affid=salescueli&affExtParam2=20261008clfhbdio1lxk&affExtParam1=198024",
-      "image": "https://cdn4.telesco.pe/file/u5jzuAaKxJP6vXyuHmhEvvqn50gQcTC9vXReh08WB4HNIkr_xJhUFRV69llPZA9t-gQeg5TUVFRHFzkIpCNbBF0JU7hcIJeAYs6FpG2rqK4-1GE3EuvzOLjMzu8MNsp92aFZ5iPyPWj4YdSNVtCAQZ8fMpf83xYe33i3kOZPUL3u_MQ9-h6rz82eKrSfpfxnoHKX6EG3MkQBnEDf5pXuLNWO3W5Z-29rI1vUtvM0Ojvs6hVsOnQzxUPjD_LN9ZlQ_RXhNe7V62poEROuSBPKN23ZO6F9gLhhVQmNyZf-OGD24OQClE5H8y9sfe2odmxEmnedkjNiG_KmAWamSgSx8g.jpg",
-      "merchant": "flipkart",
-      "posted_at": "2026-10-08T06:20:22+00:00"
+      "posted_at": "2026-10-08T07:55:53+00:00"
     }
   ]
 }
