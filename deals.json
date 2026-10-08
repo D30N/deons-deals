@@ -1,72 +1,127 @@
 {
-  "updated": "2026-10-08T04:14:03.871201+00:00",
-  "count": 6,
+  "updated": "2026-10-08T05:48:49.399041+00:00",
+  "count": 11,
   "deals": [
     {
-      "id": "dd-203365",
-      "title": "Upto 87% Off on Safari Laptop Bags",
-      "category": "laptops",
-      "price": 386,
-      "off_pct": 87,
-      "url": "https://www.flipkart.com/bags-wallets-belts/bags-backpacks/laptop-bags/safari~brand/pr?sid=reh%2C4d7%2Cx9i&sort=price_asc&p%5B%5D=facets.brand%5B%5D%3DSAFARI&p%5B%5D=facets.discount_range_v1%5B%5D%3D70%25%20or%20more&affid=salescueli&affExtParam2=20261008clq19xkzvyi7&affExtParam1=198024",
-      "image": null,
-      "merchant": "flipkart",
-      "posted_at": "2026-10-08T02:55:35+00:00"
-    },
-    {
-      "id": "dd-203375",
-      "title": "Sony WF-C710NSA | Dual Noise Cancellation Wireless Bluetooth in Ear Earbuds",
-      "category": "audio",
-      "price": 3891,
-      "off_pct": 70,
-      "url": "https://www.amazon.in/dp/B0FCLPQG26?tag=deonsdeals-21",
-      "image": null,
-      "merchant": "amazon",
-      "posted_at": "2026-10-08T03:55:09+00:00"
-    },
-    {
-      "id": "dd-203376",
-      "title": "Preethi Blue Leaf Diamond Mixer Grinder, 750 Watt 3 Jars + Flexi Lid, White",
+      "id": "dd-203397",
+      "title": "Xiaomi MI Power Bank 20000 165W Fast Charging — big power, big saving Portable high-capacity power bank with built-in US",
       "category": "accessories",
-      "price": 2050,
-      "off_pct": 78,
-      "url": "https://www.amazon.in/dp/B0188KPKB2?tag=deonsdeals-21",
+      "price": null,
+      "off_pct": 60,
+      "url": "https://www.amazon.in/dp/B0HFMTCQ76?tag=deonsdeals-21",
       "image": null,
       "merchant": "amazon",
-      "posted_at": "2026-10-08T03:56:03+00:00"
+      "posted_at": "2026-10-08T04:45:59+00:00"
     },
     {
-      "id": "dd-203377",
-      "title": "🧊 Samsung 653 L Smart Refrigerator at a huge save Side-by-side, AI-enabled, convertible 5-in-1 fridge for a premium kitc",
-      "category": "tv",
-      "price": null,
+      "id": "dd-203399",
+      "title": "HP Victus Smartchoice, AMD Ryzen 7 7445HS, 6GB RTX 4050, 16GB DDR5 Gaming Laptop",
+      "category": "laptops",
+      "price": 89490,
+      "off_pct": 71,
+      "url": "https://www.amazon.in/dp/B0GVRZD89W?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T04:49:09+00:00"
+    },
+    {
+      "id": "dd-203400",
+      "title": "Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB) (12 GB R...more",
+      "category": "mobiles",
+      "price": 52249,
+      "off_pct": 50,
+      "url": "https://www.flipkart.com/samsung-galaxy-s25-5g-snapdragon-silver-shadow-128-gb/p/itm957543a944c80?pid=MOBHQDMKYG8JCE4R&param=665746&affid=salescueli&affExtParam2=20261008cl54td6dahzi&affExtParam1=198024",
+      "image": "https://cdn4.telesco.pe/file/G4GrV9YL6ywJeJkFwoGUM13wN_V2SnWtV6iSFHlq0bFwSGVZ2sd62JdP6XrDHoi2-8AZrQVANkYF-j3jt-r8lb-zGQ1JU1SmPwhfv3YzrybOYFTnk0Yl3nT1EYC7ncprwNhtH_v6NGiPB7pxJeOhebBTD26WeSKWEKLhnPJOj0s_r1FkOtKxLNbKkYWw5PXTTUoiHSK1ro6gpiz6s4n0J8s09s4z4SCZzpALV5CehVN31u5AqkSZOxQG5qDXGfxrqmMsuXNVcZPMU2Ux7aWbgFSvtxSVJE_mi9bLIp-Ah9kRbaQSoQIwL-C3X_8wRTw6QnObNvu-o4ZOWnOLDv7bvA.jpg",
+      "merchant": "flipkart",
+      "posted_at": "2026-10-08T04:50:19+00:00"
+    },
+    {
+      "id": "dd-203401",
+      "title": "OPPO Enco Air 5 with 6-mic 52dB ANC,Upto 54Hrs Playtime,Low Laten...more",
+      "category": "mobiles",
+      "price": 2374,
       "off_pct": 53,
-      "url": "https://www.amazon.in/dp/B0CCYNFC1F?tag=deonsdeals-21",
-      "image": null,
-      "merchant": "amazon",
-      "posted_at": "2026-10-08T03:57:51+00:00"
-    },
-    {
-      "id": "dd-203379",
-      "title": "Flipkart Minutes : Butterfly Rapid 750 W Juicer Mixer Grinder (Rapid - 4J / Rapid | 4 Jars | Black)",
-      "category": "accessories",
-      "price": 1873,
-      "off_pct": 66,
-      "url": "https://www.flipkart.com/butterfly-rapid-750-w-juicer-mixer-grinder/p/itm9202a2047fd97?pid=MIXF5D4KPARAZNZA&lid=LSTMIXF5D4KPARAZNZA7ANKMG&marketplace=FLIPKART&hl_lid=LSTMIXF5D4KPARAZNZAEQ6JNW&pageUID=1791430943888&affid=salescueli&affExtParam2=20261008clwagbdskbbm&affExtParam1=198024",
-      "image": "https://cdn4.telesco.pe/file/kpu1G7Pk2axknEW-6zG9nrvv6LcZNLbXDDvwB-93PnmvxQtyVCRTW8zba1qQ9ooJG4iCRvGgOnZJhptruV3fknf6y7tqqZU6iowXaZ6az0fu7mSQOxMfOHtDApgZMIo70Hg3zGo_UiJWKE6kmaHJUna2amZPFAhWJ5opSam7AYq-0hgcu4UzoAn0pGRMAqdQgV4DmwcCD4fPx3HDgi-mxtHqkNJi9yD3_jMWXVGMsXaAF-HtRNW5dqE_4xyGcv7mT2nSnQW5k0JnXnh1JkIK-791ckn5Gwt_T9GVa0wick5sC-HNkHiL5N9oYr6YdXA5cLwDhn5kTM-dhYRLJ8rrwQ.jpg",
+      "url": "https://www.flipkart.com/oppo-enco-air-5-6-mic-52db-anc-upto-54hrs-playtime-low-latency-fast-charging-bluetooth/p/itm9b8e6c4479237?pid=ACCHZHG9BFASDAPP&lid=LSTACCHZHG9BFASDAPP5P8BBN&marketplace=FLIPKART&store=0pm%2Ffcn%2F821%2Fa7x%2F2si&srno=b_1_3&fm=organic&iid=25b4e39a-2405-4f4a-b88d-01762d929281.ACCHZHG9BFASDAPP.SEARCH&ppt=browse&ppn=browse&ssid=mc8csxttr40000001791423701018&ov_redirect=true&ov_redirect=true&affid=salescueli&affExtParam2=20261008cldiwfdmz4vt&affExtParam1=198024",
+      "image": "https://cdn4.telesco.pe/file/OnQxc1Nvp0gteJysmrYyiXpx9wKxp01BEzLs5J7n8nC7shs0sLnvG-G9IeTEIV64LJyht96ZknqhuLWk70J-YX_sYihGjbfELcWz4RLfFSzKOeVFOuVCTQec0Ft25EO3a5hrer5y5oNao36OwUHxw-7zfEu2kIHSbRMmf2At-OA9SuC1l_17dDIv7pXFJ_5r8j-IvtrsKIWO2zsKjxqRTAwE1ddZnVACPs3DpvFjLdqrLozZyEyj4LdmCMdeXL_pDelRK3uqfE7Og91HwMZ2Tvxka6j6F0kQiqAR7bBlo5d7J2ytdHf85ntnB9U0HfH9_KGvol4PMPrrJqyHZfO6ug.jpg",
       "merchant": "flipkart",
-      "posted_at": "2026-10-08T04:00:39+00:00"
+      "posted_at": "2026-10-08T04:50:25+00:00"
     },
     {
-      "id": "dd-203382",
-      "title": "Smartchoice Acer Aspire One deal — thin, light, and well-specced A compact 14-inch laptop with Ryzen 5, 8GB LPDDR5 RAM, ",
-      "category": "laptops",
-      "price": null,
-      "off_pct": 59,
-      "url": "https://www.amazon.in/dp/B0H46H6JK8?tag=deonsdeals-21",
+      "id": "dd-203404",
+      "title": "Haier 520 L 3 Star Lumiere Frost Free Triple Inverter French Door Side by Side Refrigerator (HRB-600EK, Ebony Black Stee",
+      "category": "tv",
+      "price": 59140,
+      "off_pct": 62,
+      "url": "https://www.amazon.in/dp/B0GWMFZ5SX?tag=deonsdeals-21",
       "image": null,
       "merchant": "amazon",
-      "posted_at": "2026-10-08T04:11:14+00:00"
+      "posted_at": "2026-10-08T04:51:34+00:00"
+    },
+    {
+      "id": "dd-203406",
+      "title": "Half-Price 5G Phone Deal on the iQOO Z11 Lite 44W A solid budget 5G pick with a big battery and fast charging — worth a ",
+      "category": "mobiles",
+      "price": null,
+      "off_pct": 50,
+      "url": "https://www.amazon.in/dp/B0H1WY1D37?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T04:57:08+00:00"
+    },
+    {
+      "id": "dd-203407",
+      "title": "Campus shoes — 71% off A Campus shoes deal on Flipkart worth a look if you’re shopping for footwear. From Rs 296 / 70% o",
+      "category": "fashion",
+      "price": 296,
+      "off_pct": 71,
+      "url": "https://www.flipkart.com/search?q=campus%20Shoes%20&marketplace=FLIPKART&searchSourceContext=experience%3D&widgetUniqueId=1&sort=price_asc&pageUID=1791401847282&affid=salescueli&affExtParam2=20261008cltr2ob5ass3&affExtParam1=198024",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-10-08T04:59:00+00:00"
+    },
+    {
+      "id": "dd-203408",
+      "title": "realme Buds Air 8 Pro TWS Earbuds — 41% off on Amazon Solid savings on true wireless earbuds from realme — grab the deal",
+      "category": "mobiles",
+      "price": null,
+      "off_pct": 41,
+      "url": "https://www.amazon.in/dp/B0H2D5V4LG?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T05:15:55+00:00"
+    },
+    {
+      "id": "dd-203409",
+      "title": "Thomson Alpha QLED 80 cm (32 inch) QLED HD Ready Smart Linux TV with 36W Sound (32AlphaQ019)",
+      "category": "tv",
+      "price": 7638,
+      "off_pct": 49,
+      "url": "https://www.flipkart.com/thomson-alpha-qled-80-cm-32-inch-hd-ready-smart-linux-tv-36w-sound-output-web-browser-sports-mode-bezel-less-design/p/itm5746979986c75?affid=salescueli&affExtParam2=20261008clqghpz9bohr&affExtParam1=198024",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-10-08T05:27:57+00:00"
+    },
+    {
+      "id": "dd-203410",
+      "title": "Shure MV7+ Podcast Microphone, Enhanced Audio",
+      "category": "mobiles",
+      "price": 23480,
+      "off_pct": 43,
+      "url": "https://www.amazon.in/dp/B0CTJ6GQGZ?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/v_hx-CGdwxiVzo8sNQ9JJQGJ5uDG1c8-hldym-dkwhdKYDr9N6mhwyFdCGxX6UqLYxUCYVZtHDmvADEKAcCjVsvdYFVSvrS3CZWZVxuESQ1oMrtXKB7Aowl0JNc7rhxq4Rhkr-ywuVRSLvuyhDmnfsKTyDRKXjqtxeZEguLZK3xESH-UHrJFRAZIvPOybr9ZV0KkSlVxgGuHls7wv5B_4VM7a5DGRftvnAwKABm1ayD1ObNFjDiB4ShDYVFMxQJRSPlPzclksgaLMseD0XhgOdfbuSiF7f2JZLxHGj0uPIw7bRksyGCdFWY1WlJzSSM8AmyJfYpu3hDijL_HYVC7bg.jpg",
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T05:30:36+00:00"
+    },
+    {
+      "id": "dd-203412",
+      "title": "Sony BRAVIA Theatre Bar 7, Single Soundbar, 9 Speaker Units, Surround Sound by Dolby Atmos, 360 Spatial Sound",
+      "category": "audio",
+      "price": 56239,
+      "off_pct": 44,
+      "url": "https://www.amazon.in/dp/B0GSBYNNX1?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/SvTp2WeHTzsB4RdgezcN3z6yQIGiYG3jYe_7EBmFPHDkQtevWOHpwp3UqSi4MdMHuhpJEhjFLmBEBSQJHLUpmM5RB9s5YwdNFcNhGxPmy7pwgMl_kY0_jtZNv9MY3tyU4vIVaNLyxk3aTaOicUlbcXC7AfHMEOYcW1bxlUuwf1hqgPDmaV66fXYV3f6CD2CmFpaK4Pz8peLwcf3bK3rDgfqgl4Wr5YRqw8Q9pYnjcF9-Q4BJCPaW5sbZwEZnLT9JXwG_ZeNvvLYixtCnZnPWB7xAaQxvhdfF9V_VY19wsKtqKO_isv4NKLhL3Lm8lOzgvX-mD4ynynDabjdDT04azw.jpg",
+      "merchant": "amazon",
+      "posted_at": "2026-10-08T05:30:49+00:00"
     }
   ]
 }
