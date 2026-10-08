@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deon's Deals — Diwali Dhamaka Sale Hub</title>
+<meta name="description" content="Verified price-drop deals from Amazon Great Indian Festival & Flipkart Big Billion Days. Only genuine drops, updated daily.">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#f6f7fb;--surface:#fff;--text:#14141f;--muted:#6b7280;--border:#e5e7eb;--accent:#ff6b1a;--green:#16a34a;--hero1:#1a1040;--hero2:#4c1d95;--hero3:#9a3412}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.45}
+.wrap{max-width:1080px;margin:0 auto;padding:0 14px}
+.topbar{background:var(--surface);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:10}
+.topbar .wrap{display:flex;align-items:center;gap:14px;padding:10px 14px;flex-wrap:wrap}
+.logo{display:flex;align-items:center;gap:9px;font-weight:800;font-size:19px;text-decoration:none;color:var(--text)}
+.logo .tag{width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,#ff6b1a,#ff9f2e);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:900;font-size:17px}
+.logo small{display:block;font-size:9.5px;font-weight:700;color:var(--muted);letter-spacing:.08em}
+.nav{display:flex;gap:16px;font-size:13.5px;color:var(--muted);margin-left:auto}
+.nav a{color:inherit;text-decoration:none;font-weight:600}
+.updated-pill{font-size:11px;font-weight:700;color:var(--green);background:#e8f7ee;border:1px solid #bfe8cd;padding:4px 10px;border-radius:999px}
+.hero{background:linear-gradient(135deg,var(--hero1),var(--hero2) 55%,var(--hero3));color:#fff;border-radius:18px;padding:34px 22px;margin:16px 0 12px;text-align:center}
+.hero h1{font-size:30px;margin-bottom:6px}
+.hero p{opacity:.85;font-size:14px;margin-bottom:18px}
+.count{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.cell{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);border-radius:12px;min-width:74px;padding:10px 6px}
+.cell b{display:block;font-size:28px;font-variant-numeric:tabular-nums}
+.cell i{font-style:normal;font-size:10px;opacity:.8;letter-spacing:.08em}
+.hero .note{margin-top:12px;font-size:12px;opacity:.75}
+.hero.live h1{font-size:26px}
+.banks{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:4px 0 6px}
+.bank{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:10px 14px;font-size:12.5px;color:var(--muted)}
+.bank b{display:block;font-size:13px;color:var(--accent);margin-bottom:2px}
+.sec{display:flex;align-items:center;justify-content:space-between;margin:20px 0 10px}
+.sec h2{font-size:19px}
+.live-dot{font-size:12px;font-weight:700;color:var(--green)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.chip{border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:13px;font-weight:600;padding:7px 15px;border-radius:999px;cursor:pointer}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;transition:transform .12s}
+.card:hover{transform:translateY(-2px)}
+.imgbox{height:150px;position:relative;background:#e9ebf2;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.imgbox img{width:100%;height:100%;object-fit:cover}
+.imgbox .ph{font-size:44px;font-weight:800;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,.3)}
+.cat{position:absolute;left:10px;top:10px;font-size:9.5px;font-weight:700;background:rgba(0,0,0,.55);color:#fff;padding:4px 9px;border-radius:999px;letter-spacing:.05em}
+.off{position:absolute;right:10px;top:10px;font-size:12px;font-weight:800;background:var(--green);color:#fff;padding:4px 10px;border-radius:999px}
+.merchant{position:absolute;left:10px;bottom:10px;font-size:9.5px;font-weight:700;background:rgba(0,0,0,.55);color:#fff;padding:4px 9px;border-radius:999px}
+.body{padding:12px;display:flex;flex-direction:column;gap:5px;flex:1}
+.title{font-size:13.5px;font-weight:700;line-height:1.35}
+.price{display:flex;align-items:baseline;gap:8px;margin-top:2px}
+.price b{font-size:17px}
+.price s{font-size:12.5px;color:var(--muted)}
+.verified{font-size:11px;color:var(--green);font-weight:600}
+.btn{margin-top:8px;background:var(--accent);color:#fff;border:none;border-radius:9px;padding:10px;font-size:13.5px;font-weight:800;cursor:pointer;text-decoration:none;text-align:center;display:block}
+.btn:hover{filter:brightness(1.06)}
+.empty{background:var(--surface);border:1px dashed var(--border);border-radius:14px;padding:34px;text-align:center;color:var(--muted);font-size:14px;grid-column:1/-1}
+.trust{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:24px 0}
+.t{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;font-size:12.5px;color:var(--muted);text-align:center}
+.t b{display:block;font-size:13.5px;color:var(--text);margin-bottom:4px}
+footer{border-top:1px solid var(--border);margin-top:10px;padding:22px 0 34px;font-size:11.5px;color:var(--muted);line-height:1.6}
+footer b{color:var(--text)}
+@media(max-width:560px){.hero h1{font-size:23px}.grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <a class="logo" href="#"><span class="tag">%</span><span>Deon's Deals<small>DEALS HUB</small></span></a>
+  <div class="nav"><a href="#deals">Deals</a><a href="#banks">Bank Offers</a><a href="#why">Why Us</a></div>
+  <span class="updated-pill" id="updatedPill">Updating…</span>
+</div></div>
+
+<div class="wrap">
+  <div class="hero" id="hero">
+    <h1 id="heroTitle">Diwali Dhamaka Sales</h1>
+    <p>Amazon Great Indian Festival &bull; Flipkart Big Billion Days</p>
+    <div class="count" id="countdown">
+      <div class="cell"><b id="cd-d">--</b><i>DAYS</i></div>
+      <div class="cell"><b id="cd-h">--</b><i>HOURS</i></div>
+      <div class="cell"><b id="cd-m">--</b><i>MINS</i></div>
+      <div class="cell"><b id="cd-s">--</b><i>SECS</i></div>
+    </div>
+    <div class="note" id="heroNote">Prime early access begins Oct 7, 12:00 AM IST</div>
+  </div>
+
+  <div class="banks" id="banks">
+    <div class="bank"><b>SBI Cards</b>10% instant discount on Amazon.in</div>
+    <div class="bank"><b>Axis &amp; ICICI Bank</b>10% instant discount on Flipkart</div>
+    <div class="bank"><b>Plus / Black members</b>Up to 12&ndash;15% extra + early access Oct 8, 12 AM</div>
+    <div class="bank"><b>Prime members</b>24-hr early access from Oct 7 + extra 10% on select deals</div>
+  </div>
+
+  <div class="sec" id="deals"><h2>Today's hottest drops</h2><span class="live-dot">&#9679; LIVE</span></div>
+  <div class="chips" id="chips">
+    <button class="chip on" data-f="all">All</button>
+    <button class="chip" data-f="mobiles">Mobiles</button>
+    <button class="chip" data-f="laptops">Laptops</button>
+    <button class="chip" data-f="audio">Audio</button>
+    <button class="chip" data-f="wearables">Wearables</button>
+    <button class="chip" data-f="tv">TV &amp; Appliances</button>
+    <button class="chip" data-f="fashion">Fashion</button>
+    <button class="chip" data-f="accessories">Accessories</button>
+  </div>
+  <div class="grid" id="grid"><div class="empty">Loading deals…</div></div>
+
+  <div class="trust" id="why">
+    <div class="t"><b>Verified price drops</b>Only genuine cuts make it here — no inflated "MRP" tricks.</div>
+    <div class="t"><b>Community-vetted</b>Deals are picked from India's most active deal-hunting community.</div>
+    <div class="t"><b>Bank offers stacked</b>Card discounts factored in, so the price you see is the price you pay.</div>
+  </div>
+
+  <footer>
+    <b>Affiliate disclosure:</b> Deon's Deals participates in the Amazon Associates Program. As an Amazon Associate, we earn from qualifying purchases made through links on this site &mdash; at no extra cost to you.<br>
+    &copy; 2026 Deepak Deon &bull; Deon's Deals. Prices and availability change fast during sales &mdash; grab it while it's hot.
+  </footer>
+</div>
+
+<script>
+(function(){
+  var grid=document.getElementById("grid"),catNames={mobiles:"MOBILES",laptops:"LAPTOPS",audio:"AUDIO",wearables:"WEARABLES",tv:"TV & APPLIANCES",fashion:"FASHION",accessories:"ACCESSORIES"};
+  var grads=["linear-gradient(135deg,#0f2027,#2c5364)","linear-gradient(135deg,#1a2a6c,#b21f1f)","linear-gradient(135deg,#eb3349,#f45c43)","linear-gradient(135deg,#ff8008,#ffc837)","linear-gradient(135deg,#232526,#414345)","linear-gradient(135deg,#000428,#004e92)","linear-gradient(135deg,#11998e,#38ef7d)","linear-gradient(135deg,#8e2de2,#4a00e0)","linear-gradient(135deg,#141e30,#8e9eab)","linear-gradient(135deg,#355c7d,#6c5b7b)"];
+  function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+  function card(d,i){
+    var g=grads[i%grads.length],initial=esc((d.title||"?").trim().charAt(0).toUpperCase());
+    var img=d.image?'<img src="'+esc(d.image)+'" alt="" loading="lazy" onerror="this.outerHTML=\'<span class=ph>\'+initial+\'</span>\'">':'<span class="ph">'+initial+'</span>';
+    var price=d.price?'<b>\u20B9'+Number(d.price).toLocaleString("en-IN")+'</b>':'<b>See price</b>';
+    return '<div class="card" data-cat="'+esc(d.category)+'">'+
+      '<div class="imgbox" style="background:'+g+'"><span class="cat">'+esc(catNames[d.category]||d.category||"DEAL")+'</span>'+
+      '<span class="off">-'+esc(d.off_pct)+'%</span><span class="merchant">'+esc((d.merchant||"").toUpperCase())+'</span>'+img+'</div>'+
+      '<div class="body"><div class="title">'+esc(d.title)+'</div>'+
+      '<div class="price">'+price+'</div>'+
+      '<div class="verified">\u2713 Price-drop verified</div>'+
+      '<a class="btn" href="'+esc(d.url)+'" target="_blank" rel="nofollow sponsored noopener">Grab Deal</a></div></div>';
+  }
+  function render(list,f){
+    grid.innerHTML="";
+    var show=list.filter(function(d){return f==="all"||d.category===f;});
+    if(!show.length){grid.innerHTML='<div class="empty">No deals in this category right now — check back soon.</div>';return;}
+    show.forEach(function(d,i){grid.insertAdjacentHTML("beforeend",card(d,i));});
+  }
+  var all=[];
+  Promise.resolve({
+  "updated": "2026-09-28T18:09:15.487999+00:00",
+  "count": 8,
+  "deals": [
+    {
+      "id": "dd-202791",
+      "title": "American Tourister Quad 3.0 Style 01 Backpack — 70% off School & college backpack in Legion Blue — a solid everyday carr",
+      "category": "fashion",
+      "price": null,
+      "off_pct": 70,
+      "url": "https://www.amazon.in/dp/B0CYGP4MPW?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-09-28T10:25:12+00:00"
+    },
+    {
+      "id": "dd-202793",
+      "title": "MageGee TS91 Mini 60% RGB Backlit 61-Key Ultra-Compact Gaming Keyboard — compact gaming deal Ultra-compact 61-key keyboa",
+      "category": "accessories",
+      "price": null,
+      "off_pct": 42,
+      "url": "https://www.amazon.in/dp/B08F7GZDT2?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-09-28T10:45:26+00:00"
+    },
+    {
+      "id": "dd-202794",
+      "title": "boAt Nirvana Crown TWS Earbuds — big feature stack at a sharp price A feature-packed earbuds deal with ANC, Spatial Audi",
+      "category": "audio",
+      "price": null,
+      "off_pct": 80,
+      "url": "https://www.amazon.in/dp/B0G2RZZF9S?tag=deonsdeals-21",
+      "image": null,
+      "merchant": "amazon",
+      "posted_at": "2026-09-28T10:51:22+00:00"
+    },
+    {
+      "id": "dd-202797",
+      "title": "SMARTFASHION E88 Foldable RC Drone with HD Dual Camera — 53% off Foldable RC drone with HD dual camera and 2 batteries i",
+      "category": "accessories",
+      "price": null,
+      "off_pct": 53,
+      "url": "https://www.flipkart.com/smartfashion-e88-foldable-drone-dual-camera-2-batteries/p/itmd5dbfe2a89a84?pid=DNEHZSRU5ZE2ZAPH&lid=LSTDNEHZSRU5ZE2ZAPHSRLNE8&affid=salescueli&affExtParam2=20260928clu8wmxo6vwa&affExtParam1=198024",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-09-28T11:41:22+00:00"
+    },
+    {
+      "id": "dd-202800",
+      "title": "Infinix BT Speaker X20 — 20 W sound at a sharp price Compact Bluetooth speaker from Infinix, now featured at a big markd",
+      "category": "audio",
+      "price": null,
+      "off_pct": 68,
+      "url": "https://www.flipkart.com/infinix-bt-speaker-x20-20-w-bluetooth/p/itm7260ff6f0e330?pid=ACCHPHPSB3FGMA32&lid=LSTACCHPHPSB3FGMA32QEHKXM&affid=salescueli&affExtParam2=20260928clibuw366xff&affExtParam1=198024",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-09-28T12:14:46+00:00"
+    },
+    {
+      "id": "dd-202801",
+      "title": "Amazon Basics 3.5L Electric Air Fryer | 1200 W | Non-Stick Coated | 1 Year Warranty (Green)",
+      "category": "tv",
+      "price": 2181,
+      "off_pct": 76,
+      "url": "https://www.amazon.in/dp/B0DK98X9KH?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/kqrxdLDHYdtLNoSXUgwYhh8yNULxfGKsnd9aSZiTM2dtu0pjfScxbEnTxBErsEjNVFZv8h7hnmc1yZ-2AyKJBoIZ47_veEv90vwCqQ_LRFwyxcIDpCw1TF0KIA5f9DgdTA-NHUjJj8QQYI5UULOyiK_wqnQfMFMQwDW3aHk8sC849AV7hWyxxg-A2hVwuCzW5CxybC1Nj_qBGg4tmq_RtBHc6K_1oWR-gBVLpc9cG_zhNBl17Hlj4Cc9Nn4XzTnhFeOugRgf7AvnAivnGyO6mTVvi3oDC_-cg7ivnJBbmBGvoOCbJsNMVlbIEkzzhnbiCuofmpbuY2Ou9bs38PezQA.jpg",
+      "merchant": "amazon",
+      "posted_at": "2026-09-28T12:15:14+00:00"
+    },
+    {
+      "id": "dd-202803",
+      "title": "[Coupon + Axis CC EMI] iDPRT Bluetooth Thermal Label Printer (4x6 Inch)",
+      "category": "accessories",
+      "price": 6299,
+      "off_pct": 76,
+      "url": "https://www.amazon.in/dp/B0FZRFRMFY?tag=deonsdeals-21",
+      "image": "https://cdn4.telesco.pe/file/OaUGg65YmXJ_c4aRk7sk0eXGc-FjfFlz54qAbgQ9NsJcvWkGQ0sEAvl_pHHCLrWZ5CzjL30JI0_HJBzj4CgreRUxcUfCW1CbkLD6HDE7bXpGQ_wfnBFloj2XQ_l3WCs-8BDb2LlRKufcUXFADCqpcxi7eJHb8ucTFCBGSbrb4wXmXuKJ-XFCsmEhJd7daHVlf_Er5ssvuXYI6TnA9T6lO_i9hp33OSD74FyhJ6jLexFFh5HAKFoI7jALC_ONttZnJ2c6nAdGop-iOcUCgoi3TF9Mer6Y3kpAj9-KYQxnqr_6ogcezRRHfoaRcKvaedG9xa3sl-WEsp0fbV4NRquv_Q.jpg",
+      "merchant": "amazon",
+      "posted_at": "2026-09-28T12:30:24+00:00"
+    },
+    {
+      "id": "dd-202804",
+      "title": "Tokyo Talkies tee deal — everyday style, big save Soft cotton-blend round neck T-shirt for women from Tokyo Talkies ₹210",
+      "category": "fashion",
+      "price": null,
+      "off_pct": 85,
+      "url": "https://www.flipkart.com/tokyo-talkies-printed-typography-women-round-neck-brown-t-shirt/p/itmd943fb817e34d?pid=TSHGSA6BPGUV2ERZ&lid=LSTTSHGSA6BPGUV2ERZCPYS2W&marketplace=FLIPKART&store=clo%2Fash%2Fank%2Floi&srno=b_1_3&fm=organic&iid=8570ce5c-a8e5-48cf-bad2-12930d6df7ec.TSHGSA6BPGUV2ERZ.SEARCH&ppt=browse&ppn=browse&ssid=8kvh896u680000001790591174466&ov_redirect=true&affid=salescueli&affExtParam2=20260928cl8t9d8izb6j&affExtParam1=198024",
+      "image": null,
+      "merchant": "flipkart",
+      "posted_at": "2026-09-28T13:05:50+00:00"
+    }
+  ]
+}).then(function(j){
+    all=j.deals||[];
+    render(all,"all");
+    var pill=document.getElementById("updatedPill");
+    if(j.updated){var dt=new Date(j.updated);pill.textContent="Updated "+dt.toLocaleString("en-IN",{day:"numeric",month:"short",hour:"numeric",minute:"2-digit"});}
+  }).catch(function(){grid.innerHTML='<div class="empty">Could not load deals. Please refresh.</div>';});
+  document.getElementById("chips").addEventListener("click",function(e){
+    var b=e.target.closest(".chip");if(!b)return;
+    this.querySelectorAll(".chip").forEach(function(c){c.classList.remove("on");});
+    b.classList.add("on");render(all,b.getAttribute("data-f"));
+  });
+  var target=new Date("2026-10-07T00:00:00+05:30").getTime();
+  function tick(){
+    var diff=target-Date.now();
+    if(diff<=0){
+      document.getElementById("heroTitle").textContent="Sale is LIVE \u2014 grab the drops!";
+      document.getElementById("heroNote").textContent="Amazon Great Indian Festival & Flipkart Big Billion Days are on";
+      document.getElementById("countdown").style.display="none";return;
+    }
+    var d=Math.floor(diff/864e5),h=Math.floor(diff/36e5)%24,m=Math.floor(diff/6e4)%60,s=Math.floor(diff/1e3)%60;
+    document.getElementById("cd-d").textContent=d;
+    document.getElementById("cd-h").textContent=String(h).padStart(2,"0");
+    document.getElementById("cd-m").textContent=String(m).padStart(2,"0");
+    document.getElementById("cd-s").textContent=String(s).padStart(2,"0");
+  }
+  tick();setInterval(tick,1000);
+})();
+</script>
+</body>
+</html>

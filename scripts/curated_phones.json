@@ -1,0 +1,84 @@
+[
+ {
+  "category": "mobiles",
+  "id": "curated-iphone-17",
+  "image": "https://img.swipe.bg/phones/thumbs/iphone-17-dntd0w.jpg",
+  "match": "iphone 17",
+  "merchant": "flipkart",
+  "title": "Apple iPhone 17 (Sage, 256 GB)",
+  "url": "https://fktr.in/klgWZ7k"
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-iphone-16",
+  "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5f00c240-28a5-4e0d-871f-fbe94628d314.jpg",
+  "match": "iphone 16",
+  "merchant": "flipkart",
+  "title": "Apple iPhone 16 (Black, 128 GB)",
+  "url": "https://fktr.in/UasgM6k",
+  "price": 69900
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-iphone-15",
+  "image": "https://i.ebayimg.com/images/g/tsUAAeSwgG1pFfqq/s-l400.jpg",
+  "match": "iphone 15",
+  "merchant": "flipkart",
+  "title": "Apple iPhone 15 (Green, 128 GB)",
+  "url": "https://fktr.in/b0ykuNQ"
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-s25-fe",
+  "image": "https://cdn.shopify.com/s/files/1/0400/8296/4633/files/618pbjWdj_L._AC_SL1500.jpg?v=1758812062",
+  "match": "s25 fe",
+  "merchant": "flipkart",
+  "title": "Samsung Galaxy S25 FE 5G (Navy, 128 GB)",
+  "url": "https://fktr.in/fecS7lX"
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-pixel-10a",
+  "image": "https://t-mobile.scene7.com/is/image/Tmusprod/Google-Pixel-10a-Lavender-frontimage_1?fmt=png-alpha&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&dpr=off",
+  "match": "pixel 10a",
+  "merchant": "flipkart",
+  "title": "Google Pixel 10a (Fog, 256 GB)",
+  "url": "https://fktr.in/L7EpYNf"
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-edge-70-fusion",
+  "image": "https://p1-ofp.static.pub//fes/cms/2026/02/27/rh26bwmpyv8qbb4xqy9rkesmz2op5y587082.png",
+  "match": "edge 70",
+  "merchant": "flipkart",
+  "title": "Motorola Edge 70 Fusion (128 GB)",
+  "url": "https://fktr.in/tBS75i2"
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-realme-p4",
+  "image": "https://images.bhaskarassets.com/web2images/960/2025/08/21/p4r_1755753944.png",
+  "match": "realme p4",
+  "merchant": "flipkart",
+  "title": "realme P4 5G (Steel Grey, 128 GB)",
+  "url": "https://fktr.in/vyRsJva"
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-poco-m8x",
+  "image": "https://files.gsmchoice.com/phones/poco_m8x-5g/poco_m8x-5g-03.jpg",
+  "match": "poco m8x",
+  "merchant": "flipkart",
+  "title": "POCO M8x 5G (Leather Green, 128 GB)",
+  "url": "https://fktr.in/z9p7BMT"
+ },
+ {
+  "category": "mobiles",
+  "id": "curated-x300-pro",
+  "image": "https://image.alza.cz/Foto/FotoAdd/VI/VIV133b1-07.jpg",
+  "match": "x300 pro",
+  "merchant": "flipkart",
+  "title": "vivo X300 Pro (Elite Black, 512 GB)",
+  "url": "https://fktr.in/Y0t9mXO"
+ }
+]
