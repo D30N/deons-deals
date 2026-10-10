@@ -28,9 +28,11 @@
       "id": "curated-iphone-15",
       "image": "https://i.ebayimg.com/images/g/tsUAAeSwgG1pFfqq/s-l400.jpg",
       "merchant": "flipkart",
-      "title": "Apple iPhone 15 (Green, 128 GB)",
+      "title": "Apple iPhone 15 (Blue, 128 GB)",
       "url": "https://fktr.in/b0ykuNQ",
-      "posted_at": "2026-10-10T04:14:07.348351+00:00"
+      "posted_at": "2026-10-10T04:14:07.348351+00:00",
+      "price": 67999,
+      "off_pct": 9
     },
     {
       "category": "mobiles",
